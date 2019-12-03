@@ -1,5 +1,8 @@
 ---
 title: "<span style='font-size: 25px'>Project Overview</style>"
 ---
+***  
 
-INSERT PROJECT GOALS AND AIMS HERE
+![](nyc_311_photo.png)  
+
+***
