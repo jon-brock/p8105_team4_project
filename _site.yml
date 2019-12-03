@@ -1,0 +1,16 @@
+name: "P8105 - Data Science"
+output_dir: "."
+navbar:
+  title: "Team 4"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Descriptive Statistics"
+      href: statistics.html
+    - text: "Plots"
+      href: plots.html
+    - text: "Models"
+      href: models.html
+output:
+  html_document:
+    theme: sandstone
